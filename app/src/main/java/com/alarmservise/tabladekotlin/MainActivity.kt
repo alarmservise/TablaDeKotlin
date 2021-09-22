@@ -11,6 +11,7 @@ import com.alarmservise.tabladekotlin.dialoghelper.DialogHelper
 import com.google.android.material.navigation.NavigationView.OnNavigationItemSelectedListener
 
 class MainActivity : AppCompatActivity(), OnNavigationItemSelectedListener {
+    /*комментарий для гита*/
 
     private lateinit var rootElement:ActivityMainBinding
     private val dialogHelper = DialogHelper(this)

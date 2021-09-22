@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "741417751520",
+    "project_id": "tabladkotlin-1482f",
+    "storage_bucket": "tabladkotlin-1482f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741417751520:android:8303e8dcdc0a338d079185",
+        "android_client_info": {
+          "package_name": "com.alarmservise.tabladekotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741417751520-86fd6fmq7bt46ihk4pv6gf5252s8rhuq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOAULbUGDVjsYZ64v-wlZSk3X4qovRz6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741417751520-86fd6fmq7bt46ihk4pv6gf5252s8rhuq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
